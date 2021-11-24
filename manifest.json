@@ -1,0 +1,9 @@
+{
+  "name": "RetroSpawn",
+  "description": "BepInEx mod for Starsand to have the old scolo spawn logic from 0.5.2",
+  "version_number": "0.0.1",
+  "dependencies": [
+    "BepInEx-BepInExPack_Starsand-5.4.16"
+  ],
+  "website_url": "https://github.com/sp00ktober/RetroSpawn"
+}
